@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual env
+venv/
+
+# MacOS
+.DS_Store
